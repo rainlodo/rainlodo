@@ -1,9 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr            ████████████████████████▓   99.01 %
-Kotlin       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Vue.js   2 hrs 36 mins   █████████████████▒░░░░░░░   68.89 %
+Python   1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
 ```
 
 <!--END_SECTION:waka-->
