@@ -19,4 +19,4 @@ No activity tracked
 
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/rainlodo/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/rainlodo/count.svg) visitor,Thank You!
