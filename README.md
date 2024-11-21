@@ -1,7 +1,8 @@
 ### Hi there 👋,I'm rainlodo.
 
-- 🌱 I’m currently learning React and Kotlin.
+- 🌱 I’m currently finding a job.
 - 📫 How to reach me: rainlodo@foxmail.com
+- ⭐️ my blog: https://blog.rainlodo.xyz/
 
 <br/>
 
