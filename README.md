@@ -1,5 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%203%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,45 +44,47 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
-Bash                     1 hr                ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Text                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    9 hrs 40 mins       █████████████████░░░░░░░░   69.34 % 
+Markdown                 2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 1 min         █████████████████░░░░░░░░   66.29 % 
-AstrBot                  33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-emmm                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-astrbot-image            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+s                        5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+内核-NoABI                 3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Unknown Project          2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+内核                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+AstrBot                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 19 mins (95.45%)
 
-✍️ 65 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 66 lines written by AI, 1 lines written by hand (98.51% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 10,303,295 Input Tokens, 4,412,797 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1081.53 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 24 AI Prompts
+🧠 11 AI Sessions, 75 AI Prompts
 
-Hermes                   65 lines            █████████████████████████   100.00 % 
+Hermes                   66 lines            █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.51% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 52.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +101,5 @@ Stylus                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/rainlodo/rainlodo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 17:21:46 UTC
+ Last Updated on 14/09/2026 02:29:39 UTC
 <!--END_SECTION:waka-->
