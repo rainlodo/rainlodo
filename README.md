@@ -40,37 +40,42 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 28 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 39 mins       ████████████████████████░   95.89 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+Codex Vscode             2 hrs 39 mins       ████████████████████████░   95.72 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🐱‍💻 Projects: 
-就业                       1 hr 28 mins        █████████████████████████   100.00 % 
+模块                       2 hrs 19 mins       █████████████████████░░░░   83.79 % 
+ni-s                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+就业                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 46 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 364,712 Input Tokens, 78,288 Output Tokens
+🔤 1,191,110 Input Tokens, 284,232 Output Tokens
 
-💵 $30.08 Estimated AI Cost This Week
+💵 $75.53 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,280 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -88,5 +93,5 @@ Stylus                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/rainlodo/rainlodo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 03:08:08 UTC
+ Last Updated on 12/10/2026 03:24:02 UTC
 <!--END_SECTION:waka-->
