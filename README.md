@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,43 +40,48 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 39 mins       ████████████████████████░   95.89 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other                    26 hrs 58 mins      █████████████████████░░░░   84.39 % 
+Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 39 mins       ████████████████████████░   95.72 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Codex Vscode             18 hrs 35 mins      ███████████████░░░░░░░░░░   58.16 % 
+VS Code                  13 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
 
 🐱‍💻 Projects: 
-模块                       2 hrs 19 mins       █████████████████████░░░░   83.79 % 
-ni-s                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-就业                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+众包1                      13 hrs 49 mins      ███████████░░░░░░░░░░░░░░   43.23 % 
+内核-NoABI                 8 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+m-q                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+众包                       2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+test                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  31 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 30 hrs 47 mins (96.31%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 232 lines written by hand (0.0% AI-written)
 
-🔤 1,191,110 Input Tokens, 284,232 Output Tokens
+🔤 18,781,966 Input Tokens, 6,007,058 Output Tokens
 
-💵 $75.53 Estimated AI Cost This Week
+💵 $2687.13 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 32 AI Sessions, 107 AI Prompts
 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,280 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +98,5 @@ Stylus                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/rainlodo/rainlodo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:24:02 UTC
+ Last Updated on 19/10/2026 02:29:42 UTC
 <!--END_SECTION:waka-->
