@@ -40,48 +40,43 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 58 mins      █████████████████████░░░░   84.39 % 
-Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Python                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    6 hrs 37 mins       █████████████████████░░░░   83.54 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 
 🔥 Editors: 
-Codex Vscode             18 hrs 35 mins      ███████████████░░░░░░░░░░   58.16 % 
-VS Code                  13 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
+Codex Vscode             4 hrs 58 mins       ████████████████░░░░░░░░░   62.74 % 
+VS Code                  2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.26 % 
 
 🐱‍💻 Projects: 
-众包1                      13 hrs 49 mins      ███████████░░░░░░░░░░░░░░   43.23 % 
-内核-NoABI                 8 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-m-q                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-众包                       2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-test                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+内核-NoABI                 5 hrs 23 mins       █████████████████░░░░░░░░   68.05 % 
+模块                       2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
+test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  31 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 47 mins (96.31%)
+⏱ AI Coding Time: 7 hrs 34 mins (95.51%)
 
-✍️ 0 lines written by AI, 232 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 18,781,966 Input Tokens, 6,007,058 Output Tokens
+🔤 4,229,533 Input Tokens, 731,029 Output Tokens
 
-💵 $2687.13 Estimated AI Cost This Week
+💵 $957.36 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 107 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +93,5 @@ Stylus                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/rainlodo/rainlodo/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 02:29:42 UTC
+ Last Updated on 26/10/2026 02:23:46 UTC
 <!--END_SECTION:waka-->
